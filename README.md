@@ -1,2 +1,2 @@
 # tetris
-My first Python game developed using Pygame API.
+My second Python game developed using Pygame API.
